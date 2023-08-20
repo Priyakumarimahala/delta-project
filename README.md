@@ -1,2 +1,2 @@
 # delta-project
-My new project
+My new project.
